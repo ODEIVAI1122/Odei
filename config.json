@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "HENATA BOT",
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
         "100065428878663",
         "100065428878663",
